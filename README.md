@@ -29,13 +29,13 @@ Bluestock is a modern stock analysis platform that empowers users with cutting-e
 ##  Screenshots
 
 ###  Home Page
-> ![Home Page](D:\Bluestock Analyzer\assests\home.png)  
+> ![Home Page](assests\home.png)  
 
 
 ---
 
 ###  Search Page
-> ![Search Page](D:\Bluestock Analyzer\assests\search.png)  
+> ![Search Page](assests\search.png)  
 
 ---
 
