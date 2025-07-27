@@ -1,22 +1,22 @@
 
-# 📊 Bluestock - Stock Analysis Platform
+#  Bluestock - Stock Analysis Platform
 
 Bluestock is a modern stock analysis platform that empowers users with cutting-edge tools and real-time data to **analyze stocks smarter**. Whether you're a beginner or an experienced investor, Bluestock helps you make informed decisions with confidence.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📈 Real-time stock data
-- 🔍 Smart search by company name or symbol
-- 🧠 Filter stocks by sector
-- 📋 Add to Watchlist feature
-- 🌙 Dark mode UI
-- 💡 Clean, modern, and responsive design
+-  Real-time stock data
+-  Smart search by company name or symbol
+-  Filter stocks by sector
+-  Add to Watchlist feature
+-  Dark mode UI
+-  Clean, modern, and responsive design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React + Vite
 - **Styling:** Tailwind CSS
@@ -26,23 +26,22 @@ Bluestock is a modern stock analysis platform that empowers users with cutting-e
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Home Page
-> ![Home Page](./assets/home.png)  
-> _📌 Place your home page screenshot as `assets/home.png`_
+###  Home Page
+> ![Home Page](D:\Bluestock Analyzer\assests\home.png)  
 
----
-
-### 🔍 Search Page
-> ![Search Page](./assets/search.png)  
-> _📌 Place your search page screenshot as `assets/search.png`_
 
 ---
 
-## 🧑‍💻 Getting Started
+###  Search Page
+> ![Search Page](D:\Bluestock Analyzer\assests\search.png)  
 
-### 1️⃣ Clone the Repository
+---
+
+##  Getting Started
+
+### 1️ Clone the Repository
 ```bash
 git clone https://github.com/your-username/bluestock.git
 cd bluestock
@@ -78,13 +77,13 @@ Make sure to add the `assets` folder with your screenshots before pushing to Git
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Contribute
+##  Contribute
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
